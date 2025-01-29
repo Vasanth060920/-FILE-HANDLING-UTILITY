@@ -27,7 +27,11 @@ The program uses:
     
     >Scanner: For user input.
     
-    >Files API: To read all bytes for the content.
+    >Files API: To read all bytes for the content.        
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/17e887b8-2574-4e2c-8ad0-2fcff4bec65a)
+    
   
     
     
